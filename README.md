@@ -11,3 +11,5 @@
 #### Principais Instruções do Dockerfile
 
 ### Principais Comandos Docker para Imagens
+
+## Introduction to Oracle Cloud Infrastructure Registry OCIR
