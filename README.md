@@ -9,3 +9,5 @@
 ### Dockerfile
 #### O que é um Dockerfile?
 #### Principais Instruções do Dockerfile
+
+### Principais Comandos Docker para Imagens
