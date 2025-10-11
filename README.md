@@ -8,3 +8,4 @@
 ### Introduction
 ### Dockerfile
 #### O que é um Dockerfile?
+#### Principais Instruções do Dockerfile
