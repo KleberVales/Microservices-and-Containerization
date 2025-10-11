@@ -18,3 +18,4 @@
 ### Introduction
 #### Gerenciamento de Repositórios
 #### Gerenciamento de Imagens
+#### Integração com Kubernetes
