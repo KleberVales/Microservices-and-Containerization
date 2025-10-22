@@ -20,14 +20,7 @@
 #### Gerenciamento de Imagens
 #### Integração com Kubernetes
 
----
 
-**Kleber Vales**  
-
-*Back-end Software Engineer*  
-Java | Spring Framework | Cloud & DevOps | Git & GitHub | Scrum | JUnit 5 | Hibernate | Docker | Kubernete
-
-🏆**OCA: Java SE 7 Programmer**  🏆**MTA: Software Development**  🏆**Scrum Certified**
 
 
 
