@@ -32,6 +32,12 @@ Cloud | DevOps | Git/GitHub | Scrum | Docker | Kubernates | Genenative AI
 
 🏆**MTA: Software Development** 
 
+🏆**Scrum Certified**
+
+🏆**OCI 2025: DevOps Professional**  
+
+🏆**OCI 2025: Generative AI Professional**
+
 
 
 
