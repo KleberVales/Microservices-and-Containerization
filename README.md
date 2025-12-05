@@ -28,6 +28,10 @@
 
 Cloud | DevOps | Git/GitHub | Scrum | Docker | Kubernates | Genenative AI
 
+🏆**OCA: Java SE 7 Programmer** 
+
+🏆**MTA: Software Development** 
+
 
 
 
