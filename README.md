@@ -24,6 +24,10 @@
 
 **Kleber Vales**
 
+**Java & Spring Software Engineer**   
+
+Cloud | DevOps | Git/GitHub | Scrum | Docker | Kubernates | Genenative AI
+
 
 
 
