@@ -20,6 +20,10 @@
 #### Gerenciamento de Imagens
 #### Integração com Kubernetes
 
+---
+
+**Kleber Vales**
+
 
 
 
