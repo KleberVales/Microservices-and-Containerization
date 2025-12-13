@@ -30,7 +30,7 @@ Cloud | DevOps | Git/GitHub | Scrum | Docker | Kubernates | Genenative AI
 
 🏆**Oracle Cloud Certified - Java SE 7 Programmer** 
 
-🏆**MTA: Software Development** 
+🏆**Microsoft Technology Associate - Software Development Fundamentals** 
 
 🏆**Scrum Certified**
 
