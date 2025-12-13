@@ -34,7 +34,7 @@ Cloud | DevOps | Git/GitHub | Scrum | Docker | Kubernates | Genenative AI
 
 🏆**Scrum Certified Fundamentals**
 
-🏆**OCI 2025: DevOps Professional**  
+🏆**Oracle Cloud Infrastructure 2025 - DevOps Professional**  
 
 🏆**OCI 2025: Generative AI Professional**
 
